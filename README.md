@@ -3,12 +3,6 @@
 
 I created a video project using html, css and javascript. In this project we can simply pause and play the video using a button.
 
-
-## Creater
-
-- [@KaranChandekar](https://github.com/KaranChandekar)
-
-
 ## Languages
 
 - HTML
